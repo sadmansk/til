@@ -15,6 +15,7 @@ Table of Contents:
 ---
 
 ### Bash
+* [`grep`ping text](bash/grepping-text.md)
 
 ### C++
 * [`const` unless it can't be](cpp/const-unless-it-cant-be.md)
