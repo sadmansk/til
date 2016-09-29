@@ -17,7 +17,7 @@ Table of Contents:
 ### Bash
 
 ### C++
-* [`const` unless it can't be](Cpp/const-unless-it-cant-be.md)
+* [`const` unless it can't be](cpp/const-unless-it-cant-be.md)
 
 ### General Programming
 
