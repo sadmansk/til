@@ -24,6 +24,7 @@ Table of Contents:
 
 ### Git
 * [Configuring using `git config`](git/configuring-using-git-config.md)
+* [Useful aliases: `push --force-with-lease`](git/useful-aliases-push-force-with-lease.md)
 
 ### Linux
 
