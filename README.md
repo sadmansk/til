@@ -23,6 +23,7 @@ Table of Contents:
 ### General Programming
 
 ### Git
+* [Configuring using `git config`](git/configuring-using-git-config.md)
 
 ### Linux
 
