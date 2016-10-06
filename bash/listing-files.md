@@ -13,6 +13,7 @@ log arfchives.
 `-l` and piped through to `less` or an editor. For example, we could pipe it to
 a vim process, so we can add explanations of what each file is for and save it to
 a file for bookkeeping or documentation or `README`s:
+
 ```
 ls -XRl | vim -
 ```
