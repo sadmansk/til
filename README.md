@@ -25,6 +25,7 @@ Table of Contents:
 
 ### Git
 * [Configuring using `git config`](git/configuring-using-git-config.md)
+* [Pushing to multiple remote repos](git/pushing-to-multiple-remote-repos.md)
 * [Useful aliases: `push --force-with-lease`](git/useful-aliases-push-force-with-lease.md)
 
 ### Linux
