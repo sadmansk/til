@@ -35,3 +35,4 @@ Table of Contents:
 ### Security
 
 ### Vim
+* [Finding files](vim/finding-files.md)
